@@ -37,6 +37,7 @@
       "block_order": [
         "announcement-0"
       ],
+      "disabled": true,
       "settings": {
         "layout": "marquee",
         "show_top_border": false,
